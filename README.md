@@ -31,7 +31,7 @@ o
 $ killall nautilus
 ```
 
-## Crear alias  temporar
+## Crear alias  temporal
 
 ```bash
 $ alias current_command='custom_command'
